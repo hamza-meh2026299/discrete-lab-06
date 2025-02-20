@@ -4,3 +4,6 @@ foreach(var item in groceries)
 {
 Console.WriteLine("-" + item);
 }
+
+
+groceries.Add("Yogurt");
